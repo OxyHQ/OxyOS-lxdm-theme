@@ -1,12 +1,12 @@
-Source: cbpp-lxdm-theme
+Source: oxyos-lxdm-theme
 Section: unknown
 Priority: optional
 Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.8
-Homepage: https://github.com/cbpp
+Homepage: https://github.com/OxyHQ
 
-Package: cbpp-lxdm-theme
+Package: oxyos-lxdm-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Theme for lxdm

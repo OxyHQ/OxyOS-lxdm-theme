@@ -1,28 +1,34 @@
-cbpp-lxdm-theme (13.0) unstable; urgency=medium
+oxyos-lxdm-theme (14.0) unstable; urgency=medium
+
+  * Rebranded from CBPP to OxyOS
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Mon, 10 Feb 2026 00:00:00 +0000
+
+oxyos-lxdm-theme (13.0) unstable; urgency=medium
 
   * Updated theme to gtk3 ui and css
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 08 Jun 2025 16:57:16 -0800
 
-cbpp-lxdm-theme (12.0) unstable; urgency=medium
+oxyos-lxdm-theme (12.0) unstable; urgency=medium
 
   * Version bump
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 14 May 2023 16:57:16 -0800
 
-cbpp-lxdm-theme (11.0) unstable; urgency=medium
+oxyos-lxdm-theme (11.0) unstable; urgency=medium
 
   * Version bump
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 22 Apr 2021 13:17:16 -0800
 
-cbpp-lxdm-theme (10.0) unstable; urgency=medium
+oxyos-lxdm-theme (10.0) unstable; urgency=medium
 
   * Updated to look more like the old slim theme. Thanks, Gene Grevemberg (@tacojones)!
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Sat, 11 May 2019 22:44:27 -0800
 
-cbpp-lxdm-theme (9.0) unstable; urgency=medium
+oxyos-lxdm-theme (9.0) unstable; urgency=medium
 
   * Initial Release.
 

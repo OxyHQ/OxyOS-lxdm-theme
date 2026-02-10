@@ -1,9 +1,0 @@
-#!/bin/sh
-
-set -e
-
-if [ "$1" = "remove" ] ; then
-  update-alternatives --remove lxdm.conf /etc/lxdm/cbpp.lxdm.conf
-fi
-
-exit 0
